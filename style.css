@@ -1603,6 +1603,10 @@ body{
 				}
 				.dropdowntop01 {
 					width: 46%;
+					top: 64px;
+				}
+				.dropdowntop01 a {
+					padding: 5.2px 16px;
 				}
 				.dropdowntop02 {
 					width: 38%;
@@ -1765,6 +1769,9 @@ body{
 				top: 74px;
 				right: 0rem;
 				width: 100%;
+			}
+			.dropdowntop01 a {
+				padding: 4.3px 16px;
 			}
 			.svg04 {
 				margin-right: 16px;
